@@ -1,5 +1,7 @@
 # awsgettingstartedweb
-Implementation of "Build a Basic Web Application" from AWS
+Implementation of "Build a Basic Web Application" from AWS, available at:
+
+https://dev.d18is8698iespm.amplifyapp.com/
 
 This is a serverless app built using AWS Amplify, Amazopn API Gateway, AWS Lambda, AWS IAM, and Amazon DynamoDB.
 
